@@ -1,1 +1,3 @@
-# Primeiro-Ensaio-da-Tese
+# Narrativas do Banco Central e Previsões Macroeconômicas: Usando Análise Textual de Machine Learning
+
+O presente trabalho tem como objetivo principal construir preditores a partir a partir de análise de sentimentos da Ata do Copom produzida pelo Banco Central do Brasil. Este artigo busca verificar se as narrativas nas atas contêm informações úteis que podem ser usadas para melhorar a precisão das previsões de indicadores macroeconômicos para um período à frente. O primeiro passo será construir séries temporais que representem a polaridade (sentimentos) nos textos da ata do Copom por meio de métodos de análise textual. Após a obtenção das séries de polaridade, iremos testar o seu poder preditivo para os indicadores macroeconômicos para um período a frente. Também vamos verificar se esses novos preditores são capazes melhorar o desempenho de modelos machine learning.
